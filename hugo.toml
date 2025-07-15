@@ -22,6 +22,10 @@ pagination.pagerSize = 10
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = true
 
+
+  github = "https://github.com/elniko77"
+  twitter = "https://x.com/nicososa77"
+
   # Metadata mostly used in document's head
   description = "Notas y pensamientos sobre I"
   keywords = "homepage, blog"
