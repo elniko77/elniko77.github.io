@@ -1,4 +1,4 @@
-baseurl      = "https://blog.nss.net.ar"
+baseURL      = "https://blog.nss.net.ar"
 title        = "nss's Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
