@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:30000/</loc>
+    <loc>https://blog.nss.net.ar/</loc>
     <lastmod>2025-07-15T08:29:17-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:30000/posts/bienvenido/</loc>
+    <loc>https://blog.nss.net.ar/posts/bienvenido/</loc>
     <lastmod>2025-07-15T08:29:17-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:30000/posts/</loc>
+    <loc>https://blog.nss.net.ar/posts/</loc>
     <lastmod>2025-07-15T08:29:17-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:30000/blog/</loc>
+    <loc>https://blog.nss.net.ar/blog/</loc>
   </url><url>
-    <loc>http://localhost:30000/series/</loc>
+    <loc>https://blog.nss.net.ar/series/</loc>
   </url><url>
-    <loc>http://localhost:30000/tags/</loc>
+    <loc>https://blog.nss.net.ar/tags/</loc>
   </url>
 </urlset>
