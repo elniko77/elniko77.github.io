@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog.nss.net.ar/</loc>
+    <loc>https://blog.nss.net.ar/</loc>
   </url><url>
-    <loc>blog.nss.net.ar/blog/</loc>
+    <loc>https://blog.nss.net.ar/blog/</loc>
   </url><url>
-    <loc>blog.nss.net.ar/series/</loc>
+    <loc>https://blog.nss.net.ar/series/</loc>
   </url><url>
-    <loc>blog.nss.net.ar/tags/</loc>
+    <loc>https://blog.nss.net.ar/tags/</loc>
   </url>
 </urlset>
